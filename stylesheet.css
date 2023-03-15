@@ -1,0 +1,23 @@
+<style>
+p {
+    font-size: 22px;
+    text-align: center;
+}
+p.initialinfo {
+    color: blue;
+}
+div {
+    background: lightblue;
+    margin: 23px;
+    padding: 23px;
+}
+#demo {
+    font-family: "Comic Sans MS";
+}
+.hyperlink {
+    color: green;
+}
+.hyperlink:hover {
+    color: salmon;
+}
+</style>
